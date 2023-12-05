@@ -1,0 +1,335 @@
+#-----------------------------------------------------------
+# Vivado v2020.2.2 (64-bit)
+# SW Build 3118627 on Tue Feb  9 05:13:49 MST 2021
+# IP Build 3115676 on Tue Feb  9 10:48:11 MST 2021
+# Start of session at: Thu Oct  5 00:55:41 2023
+# Process ID: 6398
+# Current directory: /home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW
+# Command line: vivado
+# Log file: /home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/vivado.log
+# Journal file: /home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/vivado.jou
+#-----------------------------------------------------------
+start_gui
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vck190:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vck190/production/2.0/board.xml as part xcvc1902-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+WARNING: [Board 49-26] cannot add Board Part xilinx.com:vmk180:part0:2.0 available at /tools/Xilinx/Vivado/2020.2/data/boards/board_files/vmk180/production/2.0/board.xml as part xcvm1802-vsva2197-2mp-e-s specified in board_part file is either invalid or not available
+create_project {8X8 co design} {/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design} -part xc7vx485tffg1157-1
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Xilinx/Vivado/2020.2/data/ip'.
+INFO: [IP_Flow 19-3899] Cannot get the environment domain name variable for the component vendor name. Setting the vendor name to 'user.org'.
+add_files -norecurse -scan_for_includes {{/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv} {/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv} {/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv}}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+add_files -fileset sim_1 -norecurse -scan_for_includes {{/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv}}
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+Command: launch_simulation 
+INFO: [Vivado 12-5682] Launching behavioral simulation in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'tb_codesign' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+xvlog --incr --relax -L uvm -prj tb_codesign_vlog.prj
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module network_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stage_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module switch_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_codesign
+WARNING: [VRFC 10-3824] variable 'skipped_line' must explicitly be declared as automatic or static [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv:15]
+WARNING: [VRFC 10-3824] variable 'i' must explicitly be declared as automatic or static [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv:16]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
+Waiting for jobs to finish...
+No pending jobs, compilation finished.
+INFO: [USF-XSim-69] 'compile' step finished in '1' seconds
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+xelab -wto 12b09b36f7c64a8da2bc8ee80873cd66 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_codesign_behav xil_defaultlib.tb_codesign xil_defaultlib.glbl -log elaborate.log
+Vivado Simulator v2020.2.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 12b09b36f7c64a8da2bc8ee80873cd66 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_codesign_behav xil_defaultlib.tb_codesign xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3823] variable 'o_port' might have multiple concurrent drivers [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv:55]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv" Line 1. Module network_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv" Line 1. Module network_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.switch_module
+Compiling module xil_defaultlib.stage_module_default
+Compiling module xil_defaultlib.network_module
+Compiling module xil_defaultlib.tb_codesign
+WARNING: [XSIM 43-3373] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv" Line 22. System function $fgets is used as system task. This system function should have a LHS e.g. x=$fgets().
+WARNING: [XSIM 43-3373] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv" Line 28. System function $fgets is used as system task. This system function should have a LHS e.g. x=$fgets().
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_codesign_behav
+
+****** Webtalk v2020.2.2 (64-bit)
+  **** SW Build 3118627 on Tue Feb  9 05:13:49 MST 2021
+  **** IP Build 3115676 on Tue Feb  9 10:48:11 MST 2021
+    ** Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+source /home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 -notrace
+couldn't read file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Thu Oct  5 00:56:51 2023...
+INFO: [USF-XSim-69] 'elaborate' step finished in '1' seconds
+INFO: [USF-XSim-4] XSim::Simulate design
+INFO: [USF-XSim-61] Executing 'SIMULATE' step in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-98] *** Running xsim
+   with args "tb_codesign_behav -key {Behavioral:sim_1:Functional:tb_codesign} -tclbatch {tb_codesign.tcl} -log {simulate.log}"
+INFO: [USF-XSim-8] Loading simulator feature
+Vivado Simulator v2020.2.2
+Time resolution is 1 ps
+source tb_codesign.tcl
+# set curr_wave [current_wave_config]
+# if { [string length $curr_wave] == 0 } {
+#   if { [llength [get_objects]] > 0} {
+#     add_wave /
+#     set_property needs_save false [current_wave_config]
+#   } else {
+#      send_msg_id Add_Wave-1 WARNING "No top level signals found. Simulator will start without a wave window. If you want to open a wave window go to 'File->New Waveform Configuration' or type 'create_wave_config' in the TCL console."
+#   }
+# }
+# run 1000ns
+INFO: [USF-XSim-96] XSim completed. Design snapshot 'tb_codesign_behav' loaded.
+INFO: [USF-XSim-97] XSim simulation ran for 1000ns
+launch_simulation: Time (s): cpu = 00:00:07 ; elapsed = 00:00:05 . Memory (MB): peak = 7791.879 ; gain = 252.891 ; free physical = 8067 ; free virtual = 29765
+relaunch_sim
+Command: launch_simulation -simset sim_1 -mode behavioral
+INFO: [Vivado 12-5682] Launching behavioral simulation in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+INFO: [SIM-utils-51] Simulation object is 'sim_1'
+INFO: [SIM-utils-54] Inspecting design source files for 'tb_codesign' in fileset 'sim_1'...
+INFO: [USF-XSim-97] Finding global include files...
+INFO: [USF-XSim-98] Fetching design files from 'sim_1'...
+INFO: [USF-XSim-2] XSim::Compile design
+INFO: [USF-XSim-61] Executing 'COMPILE and ANALYZE' step in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+xvlog --incr --relax -L uvm -prj tb_codesign_vlog.prj
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module network_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stage_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module switch_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_codesign
+WARNING: [VRFC 10-3824] variable 'skipped_line' must explicitly be declared as automatic or static [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv:15]
+WARNING: [VRFC 10-3824] variable 'i' must explicitly be declared as automatic or static [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv:16]
+Waiting for jobs to finish...
+No pending jobs, compilation finished.
+INFO: [USF-XSim-69] 'compile' step finished in '1' seconds
+Command: launch_simulation -simset sim_1 -mode behavioral
+INFO: [Vivado 12-5682] Launching behavioral simulation in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+INFO: [USF-XSim-3] XSim::Elaborate design
+INFO: [USF-XSim-61] Executing 'ELABORATE' step in '/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim'
+xelab -wto 12b09b36f7c64a8da2bc8ee80873cd66 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_codesign_behav xil_defaultlib.tb_codesign xil_defaultlib.glbl -log elaborate.log
+Vivado Simulator v2020.2.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 12b09b36f7c64a8da2bc8ee80873cd66 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_codesign_behav xil_defaultlib.tb_codesign xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3823] variable 'o_port' might have multiple concurrent drivers [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv:55]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv" Line 1. Module network_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv" Line 1. Module network_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.switch_module
+Compiling module xil_defaultlib.stage_module_default
+Compiling module xil_defaultlib.network_module
+Compiling module xil_defaultlib.tb_codesign
+WARNING: [XSIM 43-3373] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv" Line 22. System function $fgets is used as system task. This system function should have a LHS e.g. x=$fgets().
+WARNING: [XSIM 43-3373] "/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv" Line 28. System function $fgets is used as system task. This system function should have a LHS e.g. x=$fgets().
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_codesign_behav
+INFO: [USF-XSim-69] 'elaborate' step finished in '1' seconds
+Vivado Simulator v2020.2.2
+Time resolution is 1 ps
+relaunch_sim: Time (s): cpu = 00:00:06 ; elapsed = 00:00:06 . Memory (MB): peak = 7791.879 ; gain = 0.000 ; free physical = 8110 ; free virtual = 30038
+synth_design -rtl -rtl_skip_mlo -name rtl_1
+Command: synth_design -rtl -rtl_skip_mlo -name rtl_1
+Starting synth_design
+Using part: xc7vx485tffg1157-1
+Top: network_module
+INFO: [Device 21-403] Loading part xc7vx485tffg1157-1
+---------------------------------------------------------------------------------
+Starting RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 7791.879 ; gain = 0.000 ; free physical = 19143 ; free virtual = 41355
+---------------------------------------------------------------------------------
+INFO: [Synth 8-6157] synthesizing module 'network_module' [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv:1]
+INFO: [Synth 8-6157] synthesizing module 'stage_module' [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv:1]
+INFO: [Synth 8-6157] synthesizing module 'switch_module' [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv:1]
+INFO: [Synth 8-6155] done synthesizing module 'switch_module' (1#1) [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv:1]
+INFO: [Synth 8-6155] done synthesizing module 'stage_module' (2#1) [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv:1]
+INFO: [Synth 8-6155] done synthesizing module 'network_module' (3#1) [/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv:1]
+---------------------------------------------------------------------------------
+Finished RTL Elaboration : Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 7791.879 ; gain = 0.000 ; free physical = 19176 ; free virtual = 41389
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Start Handling Custom Attributes
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 7794.422 ; gain = 2.543 ; free physical = 19157 ; free virtual = 41370
+---------------------------------------------------------------------------------
+---------------------------------------------------------------------------------
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:02 ; elapsed = 00:00:02 . Memory (MB): peak = 7794.422 ; gain = 2.543 ; free physical = 19157 ; free virtual = 41370
+---------------------------------------------------------------------------------
+Netlist sorting complete. Time (s): cpu = 00:00:00.01 ; elapsed = 00:00:00 . Memory (MB): peak = 7794.422 ; gain = 0.000 ; free physical = 19147 ; free virtual = 41360
+INFO: [Project 1-570] Preparing netlist for logic optimization
+
+Processing XDC Constraints
+Initializing timing engine
+Completed Processing XDC Constraints
+
+Netlist sorting complete. Time (s): cpu = 00:00:00 ; elapsed = 00:00:00 . Memory (MB): peak = 7922.219 ; gain = 0.000 ; free physical = 19015 ; free virtual = 41237
+INFO: [Project 1-111] Unisim Transformation Summary:
+No Unisim elements were transformed.
+
+RTL Elaboration Complete:  : Time (s): cpu = 00:00:10 ; elapsed = 00:00:05 . Memory (MB): peak = 8126.543 ; gain = 334.664 ; free physical = 18935 ; free virtual = 41159
+9 Infos, 0 Warnings, 0 Critical Warnings and 0 Errors encountered.
+synth_design completed successfully
+synth_design: Time (s): cpu = 00:00:14 ; elapsed = 00:00:10 . Memory (MB): peak = 8126.543 ; gain = 334.664 ; free physical = 18935 ; free virtual = 41160
+close_sim
+INFO: [Simtcl 6-16] Simulation closed
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct  5 01:00:37 2023...

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/switch_module.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module switch_module
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/tb_switch.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_switch

@@ -1,0 +1,9 @@
+0.7
+v2020.2.2
+Feb  9 2021
+05:21:23
+/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/8X8 co design/8X8 co design.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/network_module.sv,1696434820,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv,,network_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/stage_module.sv,1696434603,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv,,stage_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/switch_module.sv,1695575120,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv,,switch_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/hw_sw_codesign/8x8 module/HW/tb_co_design.sv,1696435081,systemVerilog,,,,tb_codesign,,uvm,,,,,,

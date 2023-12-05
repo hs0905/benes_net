@@ -1,0 +1,9 @@
+0.7
+v2020.2.2
+Feb  9 2021
+05:21:23
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.srcs/sim_1/imports/network_module/tb_network.sv,1696413696,systemVerilog,,,,tb_network,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.srcs/sources_1/imports/network_module/network_module.sv,1696413737,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.srcs/sources_1/imports/network_module/stage_module.sv,,network_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.srcs/sources_1/imports/network_module/stage_module.sv,1696413745,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.srcs/sources_1/imports/network_module/switch_module.sv,,stage_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.srcs/sources_1/imports/network_module/switch_module.sv,1695575120,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/8X8_network/network_module/8X8 module/8X8 module.srcs/sim_1/imports/network_module/tb_network.sv,,switch_module,,uvm,,,,,,

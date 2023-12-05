@@ -1,0 +1,71 @@
+Vivado Simulator v2020.2.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 18fe15f5635b4068a5dfa0c6189d86f3 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_codesign_behav xil_defaultlib.tb_codesign xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3823] variable 'o_port' might have multiple concurrent drivers [/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/tb_co_design.sv:55]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/network_module.sv" Line 1. Module network_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/network_module.sv" Line 1. Module network_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.switch_module
+Compiling module xil_defaultlib.stage_module_default
+Compiling module xil_defaultlib.network_module
+Compiling module xil_defaultlib.tb_codesign
+WARNING: [XSIM 43-3373] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/tb_co_design.sv" Line 22. System function $fgets is used as system task. This system function should have a LHS e.g. x=$fgets().
+WARNING: [XSIM 43-3373] "/home/hs/Desktop/git/benes_network_algorithm/co_verify_code/tb_co_design.sv" Line 28. System function $fgets is used as system task. This system function should have a LHS e.g. x=$fgets().
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_codesign_behav

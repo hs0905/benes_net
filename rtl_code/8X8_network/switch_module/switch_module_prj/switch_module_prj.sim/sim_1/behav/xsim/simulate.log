@@ -1,0 +1,3 @@
+Vivado Simulator v2020.2.2
+Time resolution is 1 ps
+$finish called at time : 150 ps : File "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/tb_switch.sv" Line 45

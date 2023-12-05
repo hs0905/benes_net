@@ -1,0 +1,8 @@
+0.7
+v2020.2.2
+Feb  9 2021
+05:21:23
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/stage_module.sv,1695574906,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv,,stage_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/stage_module_prj/stage_module_prj.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv,1695575120,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/tb_stage.sv,,switch_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/tb_stage.sv,1695578047,systemVerilog,,,,tb_stage,,uvm,,,,,,

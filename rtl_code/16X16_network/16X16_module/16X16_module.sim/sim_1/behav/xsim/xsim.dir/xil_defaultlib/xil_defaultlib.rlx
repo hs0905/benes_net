@@ -1,0 +1,9 @@
+0.7
+v2020.2.2
+Feb  9 2021
+05:21:23
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sim_1/imports/sim_source/tb_network.sv,1696417241,systemVerilog,,,,tb_network,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sources_1/imports/design_sources/network_module.sv,1696417594,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sources_1/imports/design_sources/stage_module.sv,,network_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sources_1/imports/design_sources/stage_module.sv,1696417641,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sources_1/imports/design_sources/switch_module.sv,,stage_module,,uvm,,,,,,
+/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sources_1/imports/design_sources/switch_module.sv,1696409183,systemVerilog,,/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sim_1/imports/sim_source/tb_network.sv,,switch_module,,uvm,,,,,,

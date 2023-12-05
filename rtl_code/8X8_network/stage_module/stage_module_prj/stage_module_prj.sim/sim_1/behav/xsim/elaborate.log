@@ -1,0 +1,26 @@
+Vivado Simulator v2020.2.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /tools/Xilinx/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 23341f9e7bf44b8f8b4b812622f0e8dc --incr --debug typical --relax --mt 8 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_stage_behav xil_defaultlib.tb_stage xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3823] variable 'o_port' might have multiple concurrent drivers [/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/tb_stage.sv:23]
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/stage_module.sv" Line 1. Module stage_module_default doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/stage_module/switch_module.sv" Line 1. Module switch_module doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.switch_module
+Compiling module xil_defaultlib.stage_module_default
+Compiling module xil_defaultlib.tb_stage
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_stage_behav

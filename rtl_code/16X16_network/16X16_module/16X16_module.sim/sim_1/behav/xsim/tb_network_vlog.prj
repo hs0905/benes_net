@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../16X16_module.srcs/sources_1/imports/design_sources/network_module.sv" \
+"../../../../16X16_module.srcs/sources_1/imports/design_sources/stage_module.sv" \
+"../../../../16X16_module.srcs/sources_1/imports/design_sources/switch_module.sv" \
+"../../../../16X16_module.srcs/sim_1/imports/sim_source/tb_network.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

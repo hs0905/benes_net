@@ -1,0 +1,183 @@
+/*
+
+Xilinx Vivado v2020.2.2 (64-bit) [Major: 2020, Minor: 2]
+SW Build: 3118627 on Tue Feb  9 05:13:49 MST 2021
+IP Build: 3115676 on Tue Feb  9 10:48:11 MST 2021
+
+Process ID (PID): 9963
+License: Customer
+Mode: GUI Mode
+
+Current time: 	Wed Oct 04 20:31:35 KST 2023
+Time zone: 	Korean Standard Time (Asia/Seoul)
+
+OS: Ubuntu
+OS Version: 5.4.0-150-generic
+OS Architecture: amd64
+Available processors (cores): 24
+
+Display: 18.0
+Screen size: 1920x1080
+Screen resolution (DPI): 100
+Available screens: 1
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+Scale size: 12
+
+Java version: 	11.0.2 64-bit
+Java home: 	/tools/Xilinx/Vivado/2020.2/tps/lnx64/jre11.0.2
+Java executable location: 	/tools/Xilinx/Vivado/2020.2/tps/lnx64/jre11.0.2/bin/java
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	hs
+User home directory: /home/hs
+User working directory: /home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/network_module/design_sources
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: /tools/Xilinx/Vivado
+HDI_APPROOT: /tools/Xilinx/Vivado/2020.2
+RDI_DATADIR: /tools/Xilinx/Vivado/2020.2/data
+RDI_BINDIR: /tools/Xilinx/Vivado/2020.2/bin
+
+Vivado preferences file location: /home/hs/.Xilinx/Vivado/2020.2/vivado.xml
+Vivado preferences directory: /home/hs/.Xilinx/Vivado/2020.2/
+Vivado layouts directory: /home/hs/.Xilinx/Vivado/2020.2/data/layouts
+PlanAhead jar file location: 	/tools/Xilinx/Vivado/2020.2/lib/classes/planAhead.jar
+Vivado log file location: 	/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/network_module/design_sources/vivado.log
+Vivado journal file location: 	/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/network_module/design_sources/vivado.jou
+Engine tmp dir: 	./.Xil/Vivado-9963-baldur
+
+Xilinx Environment Variables
+----------------------------
+XILINX: /tools/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_DSP: /tools/Xilinx/Vivado/2020.2/ids_lite/ISE
+XILINX_HLS: /tools/Xilinx/Vitis_HLS/2020.2
+XILINX_PLANAHEAD: /tools/Xilinx/Vivado/2020.2
+XILINX_VITIS: 
+XILINX_VIVADO: /tools/Xilinx/Vivado/2020.2
+XILINX_VIVADO_HLS: /tools/Xilinx/Vivado/2020.2
+
+
+GUI allocated memory:	185 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,595 MB
+
+Copyright 1986-2021 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+selectList(PAResourceQtoS.SyntheticaGettingStartedView_RECENT_PROJECTS, "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.xpr", 0); // r
+// [GUI Memory]: 103 MB (+105877kb) [00:00:04]
+// [Engine Memory]: 1,536 MB (+1459038kb) [00:00:04]
+// bz (cr):  Open Project : addNotify
+// Opening Vivado Project: /home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.xpr. Version: Vivado v2020.2.2 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project /home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 129 MB (+21731kb) [00:00:05]
+// [GUI Memory]: 139 MB (+3005kb) [00:00:06]
+// Tcl Message: open_project /home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.xpr 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository '/tools/Xilinx/Vivado/2020.2/data/ip'. 
+// Project name: 16X16_module; location: /home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module; part: xc7vx485tffg1157-1
+// Tcl Message: INFO: [IP_Flow 19-3899] Cannot get the environment domain name variable for the component vendor name. Setting the vendor name to 'user.org'. 
+dismissDialog("Open Project"); // bz
+// HMemoryUtils.trashcanNow. Engine heap size: 1,603 MB. GUI used memory: 73 MB. Current time: 10/4/23, 8:31:36 PM KST
+// [Engine Memory]: 1,620 MB (+7999kb) [00:00:10]
+// Tcl Message: update_compile_order -fileset sources_1 
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, network_module (network_module.sv)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, network_module (network_module.sv)]", 1, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, network_module (network_module.sv)]", 1, true, false, false, false, false, true); // D - Double Click - Node
+// Elapsed time: 19 seconds
+selectCodeEditor("network_module.sv", 402, 320); // bP
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 10, true); // D - Node
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 10); // D
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, tb_network (tb_network.sv)]", 12, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, tb_network (tb_network.sv)]", 12, true, false, false, false, false, true); // D - Double Click - Node
+selectCodeEditor("tb_network.sv", 565, 234); // bP
+selectCodeEditor("tb_network.sv", 571, 223); // bP
+// Elapsed time: 10 seconds
+selectCodeEditor("tb_network.sv", 420, 166); // bP
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "network_module.sv", 1); // m
+// HMemoryUtils.trashcanNow. Engine heap size: 1,642 MB. GUI used memory: 75 MB. Current time: 10/4/23, 8:32:31 PM KST
+selectCodeEditor("network_module.sv", 618, 272); // bP
+selectCodeEditor("network_module.sv", 583, 290); // bP
+// Elapsed time: 270 seconds
+selectCodeEditor("network_module.sv", 435, 272); // bP
+selectCodeEditor("network_module.sv", 473, 183); // bP
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "Project Summary", 0); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "network_module.sv", 1); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "tb_network.sv", 2); // m
+selectCodeEditor("tb_network.sv", 376, 102); // bP
+selectCodeEditor("tb_network.sv", 201, 94); // bP
+selectCodeEditor("tb_network.sv", 335, 114); // bP
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, network_module (network_module.sv), stage0 : stage_module (stage_module.sv)]", 2, true); // D - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, network_module (network_module.sv), stage0 : stage_module (stage_module.sv)]", 2, true, false, false, false, false, true); // D - Double Click - Node
+selectCodeEditor("stage_module.sv", 304, 230); // bP
+selectCodeEditor("stage_module.sv", 303, 210); // bP
+selectCodeEditor("stage_module.sv", 308, 174); // bP
+selectCodeEditor("stage_module.sv", 291, 124); // bP
+// Elapsed time: 21 seconds
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "network_module.sv", 1); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "stage_module.sv", 3); // m
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "tb_network.sv", 2); // m
+selectCodeEditor("tb_network.sv", 526, 347); // bP
+selectCodeEditor("tb_network.sv", 566, 285); // bP
+// Elapsed time: 26 seconds
+selectCodeEditor("tb_network.sv", 351, 224); // bP
+selectCodeEditor("tb_network.sv", 503, 311); // bP
+selectCodeEditor("tb_network.sv", 427, 229); // bP
+// HMemoryUtils.trashcanNow. Engine heap size: 1,656 MB. GUI used memory: 77 MB. Current time: 10/4/23, 9:02:31 PM KST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,656 MB. GUI used memory: 69 MB. Current time: 10/4/23, 9:32:31 PM KST
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 1477 ms to process. Increasing delay to 2000 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 2118 ms to process. Increasing delay to 2000 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 3509 ms. Increasing delay to 10527 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 732 ms to process. Increasing delay to 2000 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 3867 ms to process. Increasing delay to 3000 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 2122 ms to process. Increasing delay to 3000 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 6428 ms. Increasing delay to 19284 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 3886 ms to process. Increasing delay to 3000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  6685 ms.
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking 3133 ms. Increasing delay to 3000 ms.
+// WARNING: HTimer (HSTRUtils Dump STR Log Timer) is taking 1978ms to process. Increasing delay to 5000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  2002 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1811 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 2128 ms to process. Increasing delay to 4000 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 3206 ms to process. Increasing delay to 4000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  8821 ms.
+// WARNING: HSwingWorker (Update Runs Swing Worker) is taking 10224 ms. Increasing delay to 4000 ms.
+// WARNING: HTimer (HSTRUtils Dump STR Log Timer) is taking 1433ms to process. Increasing delay to 6000 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 2763 ms to process. Increasing delay to 5000 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 2763 ms to process. Increasing delay to 5000 ms.
+// WARNING: HTimer (HSTRUtils Dump STR Log Timer) is taking 1223ms to process. Increasing delay to 7000 ms.
+// WARNING: HEventQueue.dispatchEvent() is taking  1223 ms.
+// WARNING: HSwingWorker (Monitor File Timestamp Swing Worker) is taking 2324 ms to process. Increasing delay to 4000 ms.
+// WARNING: HSwingWorker (Refresh Filesets Swing Worker) is taking 1 ms. Decreasing delay to 2001 ms.
+// HMemoryUtils.trashcanNow. Engine heap size: 1,656 MB. GUI used memory: 67 MB. Current time: 10/4/23, 10:02:35 PM KST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,656 MB. GUI used memory: 67 MB. Current time: 10/4/23, 10:32:35 PM KST
+// HMemoryUtils.trashcanNow. Engine heap size: 1,656 MB. GUI used memory: 67 MB. Current time: 10/4/23, 11:02:35 PM KST

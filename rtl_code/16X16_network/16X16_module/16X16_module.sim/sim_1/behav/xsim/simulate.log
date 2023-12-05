@@ -1,0 +1,3 @@
+Vivado Simulator v2020.2.2
+Time resolution is 1 ps
+$finish called at time : 3300 ps : File "/home/hs/Desktop/git/benes_network_algorithm/rtl_code/16X16_network/16X16_module/16X16_module.srcs/sim_1/imports/sim_source/tb_network.sv" Line 57

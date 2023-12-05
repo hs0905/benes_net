@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2.2 (64-bit)
+# SW Build 3118627 on Tue Feb  9 05:13:49 MST 2021
+# IP Build 3115676 on Tue Feb  9 10:48:11 MST 2021
+# Start of session at: Mon Sep 25 02:38:01 2023
+# Process ID: 20652
+# Current directory: /home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/switch_module_prj/switch_module_prj.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/switch_module_prj/switch_module_prj.sim/sim_1/behav/xsim/xsim.dir/tb_switch_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/switch_module_prj/switch_module_prj.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/switch_module_prj/switch_module_prj.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/hs/Desktop/git/benes_network_algorithm/rtl_code/switch_module/switch_module_prj/switch_module_prj.sim/sim_1/behav/xsim/xsim.dir/tb_switch_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Mon Sep 25 02:38:01 2023...
