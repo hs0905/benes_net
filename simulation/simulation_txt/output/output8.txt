@@ -1,0 +1,11 @@
+please insert the size of benes network :Enter input and output port number: 
+ 0st input/output:  1st input/output:  2st input/output:  3st input/output:  4st input/output:  5st input/output:  6st input/output:  7st input/output: 
+
+
+
+[stage 0]	[stage 1]	[stage 2]	[stage 3]	[stage 4]	
+[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	
+[  bar  ]	[ cross ]	[ cross ]	[ cross ]	[ cross ]	
+[ cross ]	[ cross ]	[ cross ]	[  bar  ]	[  bar  ]	
+[  bar  ]	[  bar  ]	[  bar  ]	[ cross ]	[ cross ]	
+Elapsed Time : 0.000147 seconds 

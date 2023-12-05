@@ -1,0 +1,23 @@
+please insert the size of benes network :Enter input and output port number: 
+ 0st input/output:  1st input/output:  2st input/output:  3st input/output:  4st input/output:  5st input/output:  6st input/output:  7st input/output:  8st input/output:  9st input/output:  10st input/output:  11st input/output:  12st input/output:  13st input/output:  14st input/output:  15st input/output:  16st input/output:  17st input/output:  18st input/output:  19st input/output:  20st input/output:  21st input/output:  22st input/output:  23st input/output:  24st input/output:  25st input/output:  26st input/output:  27st input/output:  28st input/output:  29st input/output:  30st input/output:  31st input/output: 
+
+
+
+[stage 0]	[stage 1]	[stage 2]	[stage 3]	[stage 4]	[stage 5]	[stage 6]	[stage 7]	[stage 8]	
+[ cross ]	[ cross ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	
+[ cross ]	[ cross ]	[ cross ]	[ cross ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	
+[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[ cross ]	
+[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	
+[ cross ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	
+[ cross ]	[ cross ]	[ cross ]	[  bar  ]	[ cross ]	[ cross ]	[ cross ]	[  bar  ]	[  bar  ]	
+[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[ cross ]	
+[ cross ]	[ cross ]	[ cross ]	[ cross ]	[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	
+[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[ cross ]	
+[ cross ]	[ cross ]	[ cross ]	[  bar  ]	[  bar  ]	[ cross ]	[ cross ]	[ cross ]	[ cross ]	
+[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	
+[  bar  ]	[ cross ]	[  bar  ]	[ cross ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[ cross ]	
+[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[  bar  ]	[  bar  ]	
+[  bar  ]	[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[ cross ]	[ cross ]	[ cross ]	[  bar  ]	
+[  bar  ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	
+[  bar  ]	[ cross ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	[ cross ]	[  bar  ]	[  bar  ]	
+Elapsed Time : 0.000438 seconds 
